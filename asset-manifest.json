@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/OleksiiWhite/goit-react-hw-06-phonebook.git/static/css/main.7acaea2f.css",
-    "main.js": "/OleksiiWhite/goit-react-hw-06-phonebook.git/static/js/main.07d3183d.js",
+    "main.css": "/OleksiiWhite/goit-react-hw-06-phonebook.git/static/css/main.ab3ed7f3.css",
+    "main.js": "/OleksiiWhite/goit-react-hw-06-phonebook.git/static/js/main.5202db16.js",
     "index.html": "/OleksiiWhite/goit-react-hw-06-phonebook.git/index.html",
-    "main.7acaea2f.css.map": "/OleksiiWhite/goit-react-hw-06-phonebook.git/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/OleksiiWhite/goit-react-hw-06-phonebook.git/static/js/main.07d3183d.js.map"
+    "main.ab3ed7f3.css.map": "/OleksiiWhite/goit-react-hw-06-phonebook.git/static/css/main.ab3ed7f3.css.map",
+    "main.5202db16.js.map": "/OleksiiWhite/goit-react-hw-06-phonebook.git/static/js/main.5202db16.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.ab3ed7f3.css",
+    "static/js/main.5202db16.js"
   ]
 }
